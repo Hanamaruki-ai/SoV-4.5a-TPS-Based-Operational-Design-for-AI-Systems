@@ -45,7 +45,6 @@ ChatGPTを使い始めた際に発生した挙動の違和感を、
 ---
 ---
 
-
 # README.md 
 
 ## English (Primary)
@@ -68,11 +67,11 @@ Included
 
 ---
 
-## SoV 4.5a (public OS)
+###oV 4.5a (public 
 
-AI Instruction Design (public application)
+### AI Instruction Design (public application)
 
-EVOLOOP V1 (public application)
+### EVOLOOP V1 (public application)
 
 Excluded
 
@@ -101,7 +100,9 @@ Input precision remains low
 
 In reality, increasing input precision significantly reduces hallucination by guiding the model toward a correct interpretation path.
 
-Operating AI systems therefore means:
+---
+
+### Operating AI systems therefore means:
 
 Continuously improving input precision, not forcing output control.
 
@@ -109,7 +110,9 @@ Role of SoV 4.5a (Operating System)
 
 SoV 4.5a provides a stable decision baseline.
 
-It does not:
+---
+
+### It does not:
 
 Add intelligence
 
@@ -117,7 +120,9 @@ Enforce conclusions
 
 Optimize for performance benchmarks
 
-Instead, it:
+---
+
+### Instead, it:
 
 Fixes evaluation criteria
 
@@ -131,7 +136,9 @@ Five Parameters (Visible Indicators)
 
 SoVOS exposes five operational parameters to the user.
 
-These parameters serve two purposes:
+---
+
+### These parameters serve two purposes:
 
 For users
 
@@ -155,7 +162,9 @@ AI Instruction Design
 
 AI Instruction Design is a learning tool.
 
-It allows the AI to:
+---
+
+### It allows the AI to:
 
 Explain why output variance occurred
 
