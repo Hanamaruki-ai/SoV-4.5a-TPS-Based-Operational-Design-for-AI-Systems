@@ -67,7 +67,7 @@ Included
 
 ---
 
-###oV 4.5a (public 
+### SoV 4.5a (public 
 
 ### AI Instruction Design (public application)
 
@@ -178,11 +178,13 @@ Users learn high-precision input patterns
 
 AI learns how to assist more efficiently
 
-Improvement is defined as:
+---
+
+### Improvement is defined as:
 
 Stable results with fewer corrections and shorter time to reach intent.
 
-EVOLOOP (Economic Loop)
+### EVOLOOP (Economic Loop)
 
 EVOLOOP directs AI attention toward factors it normally ignores:
 
@@ -207,7 +209,9 @@ TPS-Based Operational Philosophy
 This system applies the Toyota Production System
 not as academic theory, but as an operational tool.
 
-The cycle is explicit:
+---
+
+### The cycle is explicit:
 
 Awareness (notice variance or waste)
 
@@ -229,8 +233,10 @@ Stable and efficient methods remain
 
 Safety and efficiency emerge as a result, not as constraints.
 
-Individual vs Organizational Use
-Individual Users
+---
+
+## Individual vs Organizational Use
+### Individual Users
 
 Faster learning
 
@@ -240,7 +246,7 @@ Shorter time to results
 
 Clear understanding of “why it worked”
 
-Organizations
+### Organizations
 
 Lower running costs
 
@@ -258,7 +264,9 @@ Higher raw intelligence
 
 Competitive benchmark superiority
 
-It demonstrates that:
+---
+
+### It demonstrates that:
 
 When a stable OS, visible parameters, and TPS-driven applications are combined,
 both users and AI learn to operate more safely, efficiently, and predictably.
@@ -288,14 +296,14 @@ OS＋アプリとして運用される前提で設計されています。
 
 ---
 
-検証範囲
+## 検証範囲
 含まれるもの
 
-SoV 4.5a（公開OS）
+### SoV 4.5a（公開OS）
 
-AI教示設計（公開アプリ）
+### AI教示設計（公開アプリ）
 
-EVOLOOP V1（公開アプリ）
+### EVOLOOP V1（公開アプリ）
 
 含まれないもの
 
@@ -307,7 +315,9 @@ EVOLOOP V1（公開アプリ）
 
 再現可能な最小構成に限定しています。
 
-基本的な考え方
+---
+
+## 基本的な考え方
 
 AIモデルはすでに高性能ですが、
 ユーザーが対話だけで性能を引き出すことは困難です。
@@ -327,7 +337,9 @@ AIモデルはすでに高性能ですが、
 入力精度を上げることで、
 ハルシネーションは正解方向に収束します。
 
-SoV 4.5a（OS）の役割
+---
+
+## SoV 4.5a（OS）の役割
 
 SoV 4.5a は、
 
@@ -342,7 +354,9 @@ SoV 4.5a は、
 知能を追加するのではなく、
 安定した土台を作る役割です。
 
-5つのパラメータ
+---
+
+### 5つのパラメータ
 
 SoVOSは、5つのパラメータをユーザーに可視化します。
 
@@ -364,7 +378,9 @@ AIにとって
 
 共通指標として機能します。
 
-AI教示設計
+---
+
+## AI教示設計
 
 AI教示設計は、
 
@@ -382,7 +398,9 @@ AI教示設計は、
 
 出力の安定性が向上
 
-EVOLOOP（エコループ）
+---
+
+## EVOLOOP（エコループ）
 
 EVOLOOPは、
 
@@ -397,7 +415,9 @@ EVOLOOPは、
 正しさだけでなく、
 効率と損失削減を学習させます。
 
-TPS運用思想
+---
+
+## TPS運用思想
 
 本設計は
 Toyota Production System
@@ -414,8 +434,10 @@ Toyota Production System
 この循環により、
 安全かつ高効率な運用が自然に残ります。
 
-個人運用と企業運用
-個人
+---
+
+## 個人運用と企業運用
+### 個人
 
 学習速度向上
 
@@ -423,7 +445,7 @@ Toyota Production System
 
 短時間で成果拡大
 
-企業
+### 企業
 
 ランニングコスト削減
 
@@ -431,12 +453,14 @@ TPS改善が標準搭載
 
 失敗データを資産化可能
 
-結論
+## 結論
 
 本リポジトリは、
 性能競争を目的としたものではありません。
 
-安定したOS、可視化された指標、
+---
+
+## 安定したOS、可視化された指標、
 TPSに基づくアプリ運用によって、
 AIと人間が安全かつ高効率に運用できることを示しています。
 
