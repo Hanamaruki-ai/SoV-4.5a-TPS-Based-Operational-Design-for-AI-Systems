@@ -254,17 +254,20 @@ It demonstrates that:
 When a stable OS, visible parameters, and TPS-driven applications are combined,
 both users and AI learn to operate more safely, efficiently, and predictably.
 
-日本語（Secondary）
-SoV 4.5a ― OS＋アプリ運用検証
+---
+
+# 日本語（Secondary） 
+
+## SoV 4.5a ― OS＋アプリ運用検証
 概要
 
 本リポジトリは、SoVエコシステムの本来の運用形態である、
 
-SoV 4.5a（OS）
+## SoV 4.5a（OS）
 
-AI教示設計（アプリ）
+## AI教示設計（アプリ）
 
-EVOLOOP V1（エコループアプリ）
+## EVOLOOP V1（エコループアプリ）
 
 を組み合わせた際に、何が起こるのかを検証した記録です。
 
@@ -273,6 +276,8 @@ OS＋アプリとして運用される前提で設計されています。
 
 本検証では、性能競争ではなく
 運用安定性・学習効率・改善挙動に焦点を当てています。
+
+---
 
 検証範囲
 含まれるもの
