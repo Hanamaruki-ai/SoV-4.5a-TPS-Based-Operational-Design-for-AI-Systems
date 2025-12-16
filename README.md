@@ -4,9 +4,9 @@ This repository documents an operational design framework for AI systems based o
 ---
 ---
 
-Who is Hanamaruki?（English）
+# Who is Hanamaruki?（English）
 
-Hanamaruki is not someone who simply writes about hallucination or AI behavior.
+## Hanamaruki is not someone who simply writes about hallucination or AI behavior.
 
 The starting point was GitHub.
 
@@ -15,12 +15,14 @@ Those findings were documented first as research repositories on GitHub.
 
 Only after building those repositories did the work expand into written articles on note.com—not as opinions, but as explanations derived from actual operational logs and experiments.
 
-This GitHub report series is a continuation of that process:
+### This GitHub report series is a continuation of that process:
 GitHub first, verification first, explanation later.
 
-Hanamarukiとは何者か（日本語）
+---
 
-Hanamarukiは、
+# Hanamarukiとは何者か（日本語）
+
+## Hanamarukiは、
 単にハルシネーションやAIについて記事を書いている人物ではありません。
 
 出発点は GitHub です。
@@ -35,7 +37,7 @@ ChatGPTを使い始めた際に発生した挙動の違和感を、
 
 本GitHubレポートシリーズは、
 
-GitHubを一次資料とし、
+###  GitHubを一次資料とし、
 検証結果を軸に解説していく試み
 
 その延長線上にあります。
@@ -44,18 +46,19 @@ GitHubを一次資料とし、
 ---
 
 
-README.md
-English (Primary)
+# README.md 
+
+## English (Primary)
 SoV 4.5a — OS + Application Synergy Verification
 Overview
 
 This repository documents a verification study on the intended operational form of the SoV ecosystem:
 
-SoV 4.5a (Operating System)
+## SoV 4.5a (Operating System)
 
-AI Instruction Design (Application)
+## AI Instruction Design (Application)
 
-EVOLOOP V1 (Economic Loop Application)
+## EVOLOOP V1 (Economic Loop Application)
 
 These components were not designed for standalone use, but for combined operation as an OS with applications.
 The purpose of this study is to verify what happens when they are operated together as originally intended, focusing on operational stability, efficiency, and learning behavior rather than raw model performance.
@@ -63,7 +66,9 @@ The purpose of this study is to verify what happens when they are operated toget
 Scope of Verification
 Included
 
-SoV 4.5a (public OS)
+---
+
+## SoV 4.5a (public OS)
 
 AI Instruction Design (public application)
 
@@ -79,7 +84,9 @@ Model-specific hard optimizations
 
 This study intentionally focuses on a minimal, reproducible configuration.
 
-Core Concept
+---
+
+## Core Concept
 
 Modern AI models are already highly capable.
 However, users often cannot reliably extract that capability through dialogue alone, nor are they taught how to do so.
