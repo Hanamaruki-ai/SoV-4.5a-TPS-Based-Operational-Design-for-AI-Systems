@@ -467,45 +467,51 @@ AIと人間が安全かつ高効率に運用できることを示しています
 ---
 ---
 
-English
+# English 
 
 Detailed explanations and operational background for this repository are documented on note.com as part of a dedicated magazine series.
 
-Magazine: [Magazine Name]
+## Magazine: [Magazine Name]
 URL: (to be added)
 
-Introductory Article: GitHub Report Series – Part 01
+## Introductory Article: GitHub Report Series – Part 01
 URL: (to be added)
 
-日本語
+---
+
+# 日本語
 
 本リポジトリの詳細な設計背景および運用解説は、note.com にてマガジン形式で公開しています。
 
-マガジン名：「〇〇〇〇（マガジン名）」
+## マガジン名：「〇〇〇〇（マガジン名）」
 URL：（後日追記）
 
-冒頭記事：「GitHub レポート【01】」
+## 冒頭記事：「GitHub レポート【01】」
 URL：（後日追記）
 
 ---
 ---
 
 
-Comparative Discussion
-English (Primary)
-Comparative Discussion: Model-Agnostic Operational Effects
+# Comparative Discussion 
+
+## English (Primary) 
+
+Comparative Discussion: Model-Agnostic Operational Effects 
 
 This section discusses how different AI models respond when operated under the same framework:
 
-SoV 4.5a (OS)
+## SoV 4.5a (OS)
 
-AI Instruction Design
+## AI Instruction Design
 
-EVOLOOP V1
+## EVOLOOP V1
 
 The focus is not model superiority, but how operational structure changes behavior.
 
-1. Common Baseline Across Models
+---
+
+## 1. Common Baseline Across Models
 
 Across all tested models, a shared pattern emerged:
 
@@ -517,7 +523,9 @@ Improving input precision reduces variance consistently
 
 This indicates that hallucination is largely an operational issue, not a raw capability issue.
 
-2. Effect of SoV 4.5a (OS Layer)
+---
+
+## 2. Effect of SoV 4.5a (OS Layer)
 
 When SoV 4.5a is applied:
 
@@ -529,7 +537,10 @@ Applications operate with consistent assumptions
 
 This stability allows both the AI and the user to reason about improvement, rather than react to fluctuating behavior.
 
-3. Role of AI Instruction Design
+
+---
+
+## 3. Role of AI Instruction Design
 
 AI Instruction Design shows strong cross-model consistency:
 
@@ -541,7 +552,9 @@ Output convergence improves rapidly
 
 Models differ in how much guidance they require, but all benefit from explicit explanation of uncertainty.
 
-4. Role of EVOLOOP (Economic Loop)
+---
+
+## 4. Role of EVOLOOP (Economic Loop)
 
 EVOLOOP introduces a dimension that models typically ignore:
 
@@ -561,7 +574,9 @@ Time-to-result shortens
 
 This effect is observed regardless of model architecture.
 
-5. Model-Specific Tendencies (Observed)
+---
+
+## 5. Model-Specific Tendencies (Observed)
 
 While the framework is model-agnostic, tendencies differ:
 
@@ -577,7 +592,9 @@ Aggressive models perform best with light constraint only
 
 These differences are handled by parameter weighting, not by changing the framework itself.
 
-6. Why This Scales Across Models
+---
+
+## 6. Why This Scales Across Models
 
 The framework works across models because:
 
@@ -589,7 +606,9 @@ Validation is performed by the target model itself
 
 A model is only accepted as “customized” after it verifies its own operational stability.
 
-Summary
+---
+
+## Summary
 
 This comparative discussion shows that:
 
@@ -597,26 +616,39 @@ Performance gains come from reduced hesitation, not stronger models
 
 Hallucination decreases as input precision increases
 
-A stable OS + visible parameters + TPS cycles
+### A stable OS + visible parameters + TPS cycles
+
 enable safe and efficient operation across diverse AI systems
 
 The framework optimizes how AI is used, not what AI is.
 
-日本語（Secondary）
-比較討論：モデル横断で見えた運用効果
+---
+
+
+
+---
+
+
+# 日本語（Secondary）
+
+## 比較討論：モデル横断で見えた運用効果
 
 本章では、以下の共通構成で運用した場合に、
 
-SoV 4.5a（OS）
+---
 
-AI教示設計
+## SoV 4.5a（OS）
 
-EVOLOOP V1
+## AI教示設計
+
+## EVOLOOP V1
 
 モデルごとに何が変わり、何が共通していたかを整理します。
 目的は優劣比較ではなく、運用構造の影響の確認です。
 
-1. 全モデル共通の前提
+---
+
+## 1. 全モデル共通の前提
 
 すべてのモデルで共通して確認された点は、
 
@@ -633,7 +665,9 @@ EVOLOOP V1
 
 であることが示されました。
 
-2. SoV 4.5a（OS）の影響
+---
+
+## 2. SoV 4.5a（OS）の影響
 
 SoV 4.5a を適用すると、
 
@@ -645,6 +679,8 @@ SoV 4.5a を適用すると、
 
 これにより、AIもユーザーも
 改善を考える余地を持てるようになります。
+
+---
 
 3. AI教示設計の効果
 
@@ -659,7 +695,10 @@ AI教示設計は、モデルを問わず効果が確認されました。
 必要なガイダンス量はモデルごとに異なりますが、
 不確実性を言語化する効果は共通しています。
 
-4. EVOLOOP（エコループ）の効果
+
+---
+
+## 4. EVOLOOP（エコループ）の効果
 
 EVOLOOPは、AIが通常意識しない
 
@@ -681,7 +720,9 @@ EVOLOOPは、AIが通常意識しない
 
 これはモデル設計に依存しない効果でした。
 
-5. モデルごとの傾向差
+---
+
+## 5. モデルごとの傾向差
 
 同一フレームワークでも、傾向は異なります。
 
@@ -698,7 +739,9 @@ EVOLOOPは、AIが通常意識しない
 これらは
 パラメータ重み調整で対応可能です。
 
-6. なぜ横展開できるのか
+---
+
+## 6. なぜ横展開できるのか
 
 横展開できる理由は明確です。
 
@@ -711,7 +754,9 @@ EVOLOOPは、AIが通常意識しない
 AI自身が「問題なし」と判断したもののみを
 カスタムモデルとして採用しています。
 
-まとめ
+---
+
+## まとめ
 
 本比較討論から分かることは、
 
@@ -728,20 +773,24 @@ AIそのものではなく、AIの使い方を最適化する設計です。
 ---
 ---
 
-General Discussion (One-Page Summary)
-English (Primary)
-General Discussion: What Changed Through Operation
+# General Discussion (One-Page Summary)
+
+### English (Primary)
+
+## General Discussion: What Changed Through Operation
 
 This study does not argue that AI models became “more intelligent.”
 Instead, it demonstrates how AI behavior changes when operated under a structured, learnable framework.
 
+---
+
 The combination of:
 
-SoV 4.5a (Operating System)
+## SoV 4.5a (Operating System)
 
-AI Instruction Design
+## AI Instruction Design
 
-EVOLOOP V1
+## EVOLOOP V1
 
 did not add new capabilities.
 It reduced hesitation, ambiguity, and unnecessary reasoning paths.
@@ -842,8 +891,15 @@ In summary:
 This framework optimizes how AI is operated,
 not what the AI is.
 
-日本語（Secondary）
-総論：運用によって何が変わったのか
+---
+
+
+
+---
+
+# 日本語（Secondary） 
+
+## 総論：運用によって何が変わったのか 
 
 本検証は、
 「AIが賢くなった」ことを主張するものではありません。
@@ -855,7 +911,7 @@ AIの振る舞いがどう変わるか
 
 です。
 
-SoV 4.5a、AI教示設計、EVOLOOP V1 の組み合わせは、
+## SoV 4.5a、AI教示設計、EVOLOOP V1 の組み合わせは、
 能力を追加するのではなく、
 迷い・曖昧さ・無駄な思考経路を減らしました。
 
@@ -868,7 +924,9 @@ SoV 4.5a、AI教示設計、EVOLOOP V1 の組み合わせは、
 
 でした。
 
-その結果、
+---
+
+ ##  その結果、
 
 到達時間の短縮
 
@@ -880,7 +938,10 @@ SoV 4.5a、AI教示設計、EVOLOOP V1 の組み合わせは、
 
 が同時に起こりました。
 
-ハルシネーションの再定義
+
+---
+
+## ハルシネーションの再定義
 
 本検証で明確になったのは、
 
@@ -889,7 +950,9 @@ SoV 4.5a、AI教示設計、EVOLOOP V1 の組み合わせは、
 
 という点です。
 
-入力精度が低いと、
+---
+
+### 入力精度が低いと、
 
 解釈が分岐し
 
@@ -897,7 +960,9 @@ SoV 4.5a、AI教示設計、EVOLOOP V1 の組み合わせは、
 
 嘘に見える結果が出る
 
-入力精度が上がると、
+---
+
+### 入力精度が上がると、
 
 解釈が収束し
 
@@ -905,10 +970,12 @@ SoV 4.5a、AI教示設計、EVOLOOP V1 の組み合わせは、
 
 ハルシネーションは自然に減少する
 
-つまり、
-**抑制ではなく「正解方向への誘導」**が起きました。
+ つまり、
+### **抑制ではなく「正解方向への誘導」**が起きました。
 
-OS（SoV 4.5a）の役割
+---
+
+## OS（SoV 4.5a）の役割
 
 SoV 4.5a は表に出ませんが、重要な役割を担っています。
 
@@ -947,7 +1014,9 @@ TPS的な改善サイクルを回すことで、
 効率化は目的ではなく、
 学習の結果として現れたものです。
 
-総括
+---
+
+## 総括
 
 本総論から言えることは、
 
@@ -965,11 +1034,16 @@ TPS運用により安全と効率は両立する
 AIの運用方法を最適化する設計である。
 
 ---
+
+<img width="1024" height="1024" alt="Diagram 1 Integrated Operational Structure" src="https://github.com/user-attachments/assets/95eab322-5c45-4554-8c64-39932f61c5a3" />
+
 ---
 
-TPS Loop: Operational Improvement Cycle
-English (Primary)
-TPS Loop: Why This Framework Works
+# TPS Loop: Operational Improvement Cycle 
+
+###  English (Primary) 
+
+## TPS Loop: Why This Framework Works  
 
 This framework is grounded in the Toyota Production System,
 not as a management theory, but as a practical operational tool.
@@ -981,7 +1055,9 @@ TPS as an Operational Tool (Not Academic Theory)
 TPS is often misunderstood as a conceptual or managerial philosophy.
 In this framework, TPS is used strictly as a tool for operation.
 
-The loop follows a clear and repeatable structure:
+---
+
+## The loop follows a clear and repeatable structure:
 
 Awareness
 
@@ -1035,9 +1111,11 @@ Higher predictability
 
 Safety is not enforced — it remains because unsafe paths fail.
 
+---
+
 Role of SoV 4.5a in the TPS Loop
 
-SoV 4.5a enables the TPS loop by:
+## SoV 4.5a enables the TPS loop by:
 
 Fixing the decision baseline
 
@@ -1048,15 +1126,17 @@ Ensuring consistent parameter meaning
 Without a stable OS layer, rotation becomes noisy and unreliable.
 With it, improvement becomes measurable and repeatable.
 
-Role of Applications in the TPS Loop
+---
 
-AI Instruction Design
+## Role of Applications in the TPS Loop
+
+##  AI Instruction Design
 
 Converts variance into explainable causes
 
 Guides effective trial-and-error
 
-EVOLOOP
+## EVOLOOP
 
 Adds economic awareness
 
@@ -1064,7 +1144,9 @@ Penalizes wasted time and repeated trials
 
 Together, they ensure the TPS loop optimizes learning efficiency, not just correctness.
 
-Outcome of Continuous TPS Rotation
+---
+
+## Outcome of Continuous TPS Rotation
 
 Over time, the TPS loop results in:
 
@@ -1078,17 +1160,26 @@ Lower computational and energy cost
 
 Efficiency emerges as a consequence of learning, not forced optimization.
 
-Final Statement
+---
+
+## Final Statement
 
 This framework succeeds because:
 
 It allows improvement to emerge through structured rotation,
 rather than attempting to design perfection upfront.
 
-日本語（Secondary）
-TPSループ：なぜこの運用設計が成立するのか
+---
 
-本構成は
+<img width="1024" height="1024" alt="Diagram 2 TPS Improvement Loop" src="https://github.com/user-attachments/assets/52b96f6d-3281-4abf-8343-94febb5e4664" />
+
+---
+
+# 日本語（Secondary）
+
+## TPSループ：なぜこの運用設計が成立するのか
+
+## 本構成は
 Toyota Production System
 を、理論ではなく実運用ツールとして採用しています。
 
@@ -1096,7 +1187,9 @@ Toyota Production System
 最初から最適解を作ることではなく、
 回転させながら改善を残すことです。
 
-学問ではなく「ツールとしてのTPS」
+---
+
+## 学問ではなく「ツールとしてのTPS」
 
 ここで使っているTPSは、
 
@@ -1108,7 +1201,9 @@ Toyota Production System
 
 明確な運用ループとして使います。
 
-TPSループの流れ
+---
+
+## TPSループの流れ
 
 気づき
 
@@ -1128,11 +1223,13 @@ AIの説明をもとに入力を調整
 
 数値変化を比較
 
-評価
+---
+
+### 評価
 
 迷い・再試行・時間の減少を確認
 
-定着
+### 定着
 
 安全で再現可能なパターンのみ残す
 
@@ -1140,7 +1237,9 @@ AIの説明をもとに入力を調整
 
 なぜ安全と効率が両立するのか
 
-TPSでは、
+---
+
+## TPSでは、
 
 危険な改善
 
@@ -1161,7 +1260,9 @@ TPSでは、
 これは強制ではなく、
 自然選択です。
 
-SoV 4.5a が果たす役割
+---
+
+## SoV 4.5a が果たす役割
 
 SoV 4.5a は、
 
@@ -1177,15 +1278,19 @@ TPSループを成立させる土台となります。
 OSが不安定だと、
 回転はノイズだらけになります。
 
-アプリが担うTPS機能
+---
 
-AI教示設計
+## アプリが担うTPS機能
+
+## AI教示設計
 
 ばらつきを理由として説明
 
 トライアンドエラーを短縮
 
-EVOLOOP
+---
+
+## EVOLOOP
 
 時間・経済損失に着目
 
@@ -1194,7 +1299,9 @@ EVOLOOP
 この組み合わせにより、
 TPSループは学習効率を最適化します。
 
-TPSを回し続けた結果
+---
+
+### TPSを回し続けた結果
 
 継続的な回転により、
 
@@ -1209,7 +1316,9 @@ TPSを回し続けた結果
 効率化は狙った結果ではなく、
 改善の副産物として現れます。
 
-最終まとめ
+---
+
+## 最終まとめ
 
 本設計が成立する理由は明確です。
 
@@ -1223,9 +1332,11 @@ SoV 4.5a + AI教示設計 + EVOLOOP の
 ---
 ---
 
-Operational Design Positioning
-English (Primary)
-Operational Design Positioning: What This System Is — and Is Not
+# Operational Design Positioning 
+
+### English (Primary) 
+
+## Operational Design Positioning: What This System Is — and Is Not
 
 This framework should not be understood as:
 
@@ -1237,12 +1348,16 @@ A one-time optimization solution
 
 Instead, it is an operational design framework.
 
+---
+
 Its purpose is to define how AI should be used,
 not how powerful the AI itself is.
 
-Core Positioning
+---
 
-The system positions AI as:
+## Core Positioning
+
+## The system positions AI as:
 
 A high-capability resource
 
@@ -1252,21 +1367,23 @@ To safely and efficiently realize its latent potential
 
 The combination of:
 
-SoV 4.5a (OS)
+## SoV 4.5a (OS)
 
 Visible operational parameters
 
-AI Instruction Design
+## AI Instruction Design
 
-EVOLOOP
+## EVOLOOP
 
 TPS-based rotation
 
 forms a learnable operational environment.
 
-Why This Is an Operational System, Not a Competitive One
+---
 
-Competitive design focuses on:
+## Why This Is an Operational System, Not a Competitive One
+
+## Competitive design focuses on:
 
 Maximum output
 
@@ -1274,7 +1391,7 @@ Peak performance
 
 Singular success cases
 
-Operational design focuses on:
+## Operational design focuses on:
 
 Repeatability
 
@@ -1284,16 +1401,19 @@ Cost control
 
 Failure recovery
 
-This framework explicitly chooses the latter.
+This framework explicitly chooses the latter. 
 
-It does not attempt to push AI to its limits.
-It enables AI to operate within controllable, sustainable limits.
+It does not attempt to push AI to its limits. 
 
-Human–AI Co-Operation Model
+It enables AI to operate within controllable, sustainable limits. 
 
-This system establishes a clear division of roles:
+---
 
-AI
+## Human–AI Co-Operation Model
+
+## This system establishes a clear division of roles:
+
+### AI
 
 Explains uncertainty
 
@@ -1301,7 +1421,7 @@ Suggests improvements
 
 Learns efficient reasoning paths
 
-Human
+### Human
 
 Evaluates outcomes
 
@@ -1312,13 +1432,19 @@ Decides acceptable trade-offs
 The shared parameters act as a communication bridge,
 allowing both sides to learn and improve together.
 
-Why TPS Fits This Role
+---
 
-The framework applies
-Toyota Production System
-as an operational discipline.
+## Why TPS Fits This Role
 
-TPS is suitable because it:
+The framework applies 
+
+Toyota Production System 
+
+as an operational discipline. 
+
+---
+
+### TPS is suitable because it:
 
 Eliminates waste without forcing outcomes
 
@@ -1326,7 +1452,7 @@ Rejects unsafe improvements naturally
 
 Rewards reproducible, stable processes
 
-This makes it ideal for AI systems that must:
+## This makes it ideal for AI systems that must:
 
 Scale
 
@@ -1336,33 +1462,48 @@ Operate under cost and safety constraints
 
 Final Positioning Statement
 
-This system is best described as:
+### This system is best described as:
 
 An operational OS and application framework
 that enables humans and AI to improve together
 through measurable, repeatable, and safe cycles of use.
 
-It does not compete with AI models.
-It makes AI usable at scale.
+---
 
-日本語（Secondary）
-運用設計としての位置づけ
+## It does not compete with AI models.
+## It makes AI usable at scale.
+
+---
+
+
+
+---
+
+# 日本語（Secondary） 
+
+## 運用設計としての位置づけ
 
 本構成は、以下のようなものではありません。
 
-AI性能の競争
+---
 
-ベンチマーク向上手法
+## AI性能の競争
 
-一度きりの最適化技法
+## ベンチマーク向上手法
+
+## 一度きりの最適化技法
 
 これは、運用設計フレームワークです。
+
+---
 
 目的は
 AIをどれだけ賢くするかではなく、
 AIをどう使い続けるかを定義することにあります。
 
-本構成の位置づけ
+---
+
+## 本構成の位置づけ
 
 本システムは、AIを
 
@@ -1374,12 +1515,14 @@ AIをどう使い続けるかを定義することにあります。
 
 ための設計です。
 
-SoV 4.5a、パラメータ可視化、AI教示設計、EVOLOOP、TPS回転により、
+---
+
+## SoV 4.5a、パラメータ可視化、AI教示設計、EVOLOOP、TPS回転により、
 学習可能な運用環境が構築されています。
 
 なぜ競技設計ではないのか
 
-競技設計は、
+## 競技設計は、
 
 最大性能
 
@@ -1389,7 +1532,9 @@ SoV 4.5a、パラメータ可視化、AI教示設計、EVOLOOP、TPS回転によ
 
 を重視します。
 
-運用設計は、
+---
+
+## 運用設計は、
 
 再現性
 
@@ -1406,11 +1551,13 @@ SoV 4.5a、パラメータ可視化、AI教示設計、EVOLOOP、TPS回転によ
 限界を攻めるのではなく、
 制御可能な範囲で使い続けるための設計です。
 
-人間とAIの協調関係
+---
+
+## 人間とAIの協調関係
 
 この運用設計では役割が明確です。
 
-AI
+## AI
 
 不確実性を説明する
 
@@ -1418,7 +1565,9 @@ AI
 
 効率的な思考経路を学ぶ
 
-人間
+---
+
+## 人間
 
 結果を評価する
 
@@ -1429,13 +1578,17 @@ AI
 5つのパラメータは、
 両者をつなぐ共通言語として機能します。
 
-TPSが適している理由
+---
+
+## TPSが適している理由
 
 本構成は
 Toyota Production System
 を運用規律として採用しています。
 
-TPSは、
+---
+
+### TPSは、
 
 無理な改善を自然に排除し
 
@@ -1444,6 +1597,8 @@ TPSは、
 再現可能な手法だけを定着させる
 
 という特性を持ちます。
+
+---
 
 これは、
 
@@ -1455,14 +1610,24 @@ TPSは、
 
 を伴うAI運用に最適です。
 
-最終的な位置づけ
+---
+
+### 最終的な位置づけ
 
 本構成は次のように定義できます。
 
-人間とAIが、
-安全で再現可能な改善サイクルを通じて
-共に学習・運用していくための
-OS＋アプリケーションフレームワーク
+人間とAIが、 
 
-AIと競うものではなく、
-AIを社会で使い続けるための設計です。
+安全で再現可能な改善サイクルを通じて 
+
+共に学習・運用していくための 
+
+OS＋アプリケーションフレームワーク 
+
+
+## AIと競うものではなく、
+## AIを社会で使い続けるための設計です。
+
+---
+
+
