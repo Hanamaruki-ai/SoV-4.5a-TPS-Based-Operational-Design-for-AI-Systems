@@ -2,6 +2,47 @@
 This repository documents an operational design framework for AI systems based on TPS-style improvement cycles. Rather than enhancing model intelligence, it focuses on stabilizing operation, improving input precision, and reducing waste through measurable, repeatable use.
 
 ---
+---
+
+Who is Hanamaruki?（English）
+
+Hanamaruki is not someone who simply writes about hallucination or AI behavior.
+
+The starting point was GitHub.
+
+When ChatGPT began to behave unexpectedly after major updates, the issue was not treated as an abstract AI problem, but examined through TPS-style inspection and verification.
+Those findings were documented first as research repositories on GitHub.
+
+Only after building those repositories did the work expand into written articles on note.com—not as opinions, but as explanations derived from actual operational logs and experiments.
+
+This GitHub report series is a continuation of that process:
+GitHub first, verification first, explanation later.
+
+Hanamarukiとは何者か（日本語）
+
+Hanamarukiは、
+単にハルシネーションやAIについて記事を書いている人物ではありません。
+
+出発点は GitHub です。
+
+ChatGPTを使い始めた際に発生した挙動の違和感を、
+思想や感想ではなく、TPSの考え方を用いて検査・検証し、
+その結果を 研究資料としてGitHubのリポジトリに記録するところから始まりました。
+
+そのリポジトリ群が積み上がっていく中で、
+背景や文脈を説明する必要性が生まれ、
+後から note.com での記事執筆が始まった、という流れになります。
+
+本GitHubレポートシリーズは、
+
+GitHubを一次資料とし、
+検証結果を軸に解説していく試み
+
+その延長線上にあります。
+
+---
+---
+
 
 README.md
 English (Primary)
