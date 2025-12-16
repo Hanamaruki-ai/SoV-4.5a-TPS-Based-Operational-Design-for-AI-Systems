@@ -381,6 +381,30 @@ AIと人間が安全かつ高効率に運用できることを示しています
 ---
 ---
 
+English
+
+Detailed explanations and operational background for this repository are documented on note.com as part of a dedicated magazine series.
+
+Magazine: [Magazine Name]
+URL: (to be added)
+
+Introductory Article: GitHub Report Series – Part 01
+URL: (to be added)
+
+日本語
+
+本リポジトリの詳細な設計背景および運用解説は、note.com にてマガジン形式で公開しています。
+
+マガジン名：「〇〇〇〇（マガジン名）」
+URL：（後日追記）
+
+冒頭記事：「GitHub レポート【01】」
+URL：（後日追記）
+
+---
+---
+
+
 Comparative Discussion
 English (Primary)
 Comparative Discussion: Model-Agnostic Operational Effects
