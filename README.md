@@ -470,12 +470,12 @@ AIと人間が安全かつ高効率に運用できることを示しています
 # English 
 
 Detailed explanations and operational background for this repository are documented on note.com as part of a dedicated magazine series.
-
-## Magazine: [Magazine Name]
-URL: (to be added)
+ 
+## Magazine: 【ハルシネ－ション制御体系】 
+URL: ([to be added](https://note.com/cheeky_daisy8872/m/mb89b43f39d89))
 
 ## Introductory Article: GitHub Report Series – Part 01
-URL: (to be added)
+URL: [(to be added)](https://note.com/cheeky_daisy8872/n/n9035ab23525a)
 
 ---
 
@@ -483,11 +483,11 @@ URL: (to be added)
 
 本リポジトリの詳細な設計背景および運用解説は、note.com にてマガジン形式で公開しています。
 
-## マガジン名：「〇〇〇〇（マガジン名）」
-URL：（後日追記）
+## マガジン名：【ハルシネ－ション制御体系】 
+URL：（[後日追記](https://note.com/cheeky_daisy8872/m/mb89b43f39d89)）
 
 ## 冒頭記事：「GitHub レポート【01】」
-URL：（後日追記）
+URL：[（後日追記）](https://note.com/cheeky_daisy8872/n/n9035ab23525a)
 
 ---
 ---
