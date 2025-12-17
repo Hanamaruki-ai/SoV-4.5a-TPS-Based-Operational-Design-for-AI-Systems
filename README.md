@@ -67,11 +67,11 @@ Included
 
 ---
 
-### SoV 4.5a (public 
+### SoV 4.5a (public Operating System)
 
 ### AI Instruction Design (public application)
 
-### EVOLOOP V1 (public application)
+### ECOLOOP V1 (public application)
 
 Excluded
 
