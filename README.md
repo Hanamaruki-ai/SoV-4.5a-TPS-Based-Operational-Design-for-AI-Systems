@@ -402,7 +402,7 @@ AI教示設計は、
 
 ## ECOLOOP（エコループ）
 
-EVOLOOPは、
+ECOLOOPは、
 
 時間
 
