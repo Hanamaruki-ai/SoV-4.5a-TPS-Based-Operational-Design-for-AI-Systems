@@ -186,7 +186,7 @@ Stable results with fewer corrections and shorter time to reach intent.
 
 ### ECOLOOP (Economic Loop)
 
-EVOLOOP directs AI attention toward factors it normally ignores:
+ECOLOOP directs AI attention toward factors it normally ignores:
 
 User time
 
