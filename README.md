@@ -57,7 +57,7 @@ This repository documents a verification study on the intended operational form 
 
 ## AI Instruction Design (Application)
 
-## EVOLOOP V1 (Economic Loop Application)
+## ECOLOOP V1 (Economic Loop Application)
 
 These components were not designed for standalone use, but for combined operation as an OS with applications.
 The purpose of this study is to verify what happens when they are operated together as originally intended, focusing on operational stability, efficiency, and learning behavior rather than raw model performance.
@@ -184,7 +184,7 @@ AI learns how to assist more efficiently
 
 Stable results with fewer corrections and shorter time to reach intent.
 
-### EVOLOOP (Economic Loop)
+### ECOLOOP (Economic Loop)
 
 EVOLOOP directs AI attention toward factors it normally ignores:
 
@@ -284,7 +284,7 @@ both users and AI learn to operate more safely, efficiently, and predictably.
 
 ## AI教示設計（アプリ）
 
-## EVOLOOP V1（エコループアプリ）
+## ECOLOOP V1（エコループアプリ）
 
 を組み合わせた際に、何が起こるのかを検証した記録です。
 
@@ -303,7 +303,7 @@ OS＋アプリとして運用される前提で設計されています。
 
 ### AI教示設計（公開アプリ）
 
-### EVOLOOP V1（公開アプリ）
+### ECOLOOP V1（公開アプリ）
 
 含まれないもの
 
@@ -400,7 +400,7 @@ AI教示設計は、
 
 ---
 
-## EVOLOOP（エコループ）
+## ECOLOOP（エコループ）
 
 EVOLOOPは、
 
@@ -472,10 +472,10 @@ AIと人間が安全かつ高効率に運用できることを示しています
 Detailed explanations and operational background for this repository are documented on note.com as part of a dedicated magazine series.
  
 ## Magazine: 【ハルシネ－ション制御体系】 
-URL: ([to be added](https://note.com/cheeky_daisy8872/m/mb89b43f39d89))
+URL: (ハルシネ－ション制御体系](https://note.com/cheeky_daisy8872/m/mb89b43f39d89))
 
 ## Introductory Article: GitHub Report Series – Part 01
-URL: [(to be added)](https://note.com/cheeky_daisy8872/n/n9035ab23525a)
+URL: [(GITHubxAI 01)](https://note.com/cheeky_daisy8872/n/n9035ab23525a)
 
 ---
 
@@ -484,10 +484,10 @@ URL: [(to be added)](https://note.com/cheeky_daisy8872/n/n9035ab23525a)
 本リポジトリの詳細な設計背景および運用解説は、note.com にてマガジン形式で公開しています。
 
 ## マガジン名：【ハルシネ－ション制御体系】 
-URL：（[後日追記](https://note.com/cheeky_daisy8872/m/mb89b43f39d89)）
+URL：（[ハルシネ－ション制御体系](https://note.com/cheeky_daisy8872/m/mb89b43f39d89)）
 
 ## 冒頭記事：「GitHub レポート【01】」
-URL：[（後日追記）](https://note.com/cheeky_daisy8872/n/n9035ab23525a)
+URL：[（GITHubxAI 01）](https://note.com/cheeky_daisy8872/n/n9035ab23525a)
 
 ---
 ---
@@ -505,7 +505,7 @@ This section discusses how different AI models respond when operated under the s
 
 ## AI Instruction Design
 
-## EVOLOOP V1
+## ECOLOOP V1
 
 The focus is not model superiority, but how operational structure changes behavior.
 
@@ -556,7 +556,7 @@ Models differ in how much guidance they require, but all benefit from explicit e
 
 ## 4. Role of EVOLOOP (Economic Loop)
 
-EVOLOOP introduces a dimension that models typically ignore:
+ECOLOOP introduces a dimension that models typically ignore:
 
 Time cost
 
@@ -624,11 +624,6 @@ The framework optimizes how AI is used, not what AI is.
 
 ---
 
-
-
----
-
-
 # 日本語（Secondary）
 
 ## 比較討論：モデル横断で見えた運用効果
@@ -641,7 +636,7 @@ The framework optimizes how AI is used, not what AI is.
 
 ## AI教示設計
 
-## EVOLOOP V1
+## ECOLOOP V1
 
 モデルごとに何が変わり、何が共通していたかを整理します。
 目的は優劣比較ではなく、運用構造の影響の確認です。
@@ -698,7 +693,7 @@ AI教示設計は、モデルを問わず効果が確認されました。
 
 ---
 
-## 4. EVOLOOP（エコループ）の効果
+## 4. ECOLOOP（エコループ）の効果
 
 EVOLOOPは、AIが通常意識しない
 
@@ -790,7 +785,7 @@ The combination of:
 
 ## AI Instruction Design
 
-## EVOLOOP V1
+## ECOLOOP V1
 
 did not add new capabilities.
 It reduced hesitation, ambiguity, and unnecessary reasoning paths.
@@ -911,7 +906,7 @@ AIの振る舞いがどう変わるか
 
 です。
 
-## SoV 4.5a、AI教示設計、EVOLOOP V1 の組み合わせは、
+## SoV 4.5a、AI教示設計、ECOLOOP V1 の組み合わせは、
 能力を追加するのではなく、
 迷い・曖昧さ・無駄な思考経路を減らしました。
 
@@ -1136,7 +1131,7 @@ Converts variance into explainable causes
 
 Guides effective trial-and-error
 
-## EVOLOOP
+## ECOLOOP
 
 Adds economic awareness
 
@@ -1290,7 +1285,7 @@ OSが不安定だと、
 
 ---
 
-## EVOLOOP
+## ECOLOOP
 
 時間・経済損失に着目
 
@@ -1326,7 +1321,7 @@ TPSループは学習効率を最適化します。
 改善が残る仕組みを設計したから
 
 これが、
-SoV 4.5a + AI教示設計 + EVOLOOP の
+SoV 4.5a + AI教示設計 + ECOLOOP の
 最大の強みです。
 
 ---
@@ -1373,7 +1368,7 @@ Visible operational parameters
 
 ## AI Instruction Design
 
-## EVOLOOP
+## ECOLOOP
 
 TPS-based rotation
 
@@ -1517,7 +1512,7 @@ AIをどう使い続けるかを定義することにあります。
 
 ---
 
-## SoV 4.5a、パラメータ可視化、AI教示設計、EVOLOOP、TPS回転により、
+## SoV 4.5a、パラメータ可視化、AI教示設計、ECOLOOP、TPS回転により、
 学習可能な運用環境が構築されています。
 
 なぜ競技設計ではないのか
