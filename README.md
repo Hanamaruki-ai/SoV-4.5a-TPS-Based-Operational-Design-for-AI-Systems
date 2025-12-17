@@ -1630,4 +1630,30 @@ OS＋アプリケーションフレームワーク
 
 ---
 
+Disclaimer / Notice（English）
 
+Disclaimer
+
+This repository is provided for research, experimentation, and educational purposes only.
+
+No guarantees are made regarding performance, accuracy, stability, or effectiveness.
+The author does not promise specific outcomes, improvements, or results through the use of this material.
+
+Use of the contents is entirely at your own discretion and responsibility.
+Any risks, losses, or unintended behaviors resulting from usage are the responsibility of the user.
+
+This repository does not constitute professional, commercial, or production-ready guidance.
+
+注意事項・免責（日本語）
+
+免責事項
+
+本リポジトリは、研究・検証・学習目的で提供されるものです。
+
+性能、正確性、安定性、有効性について、いかなる保証も行いません。
+本資料の使用によって特定の効果や成果が得られることを約束するものではありません。
+
+利用はすべて自己責任で行ってください。
+本リポジトリの使用により生じたいかなる損害、損失、挙動についても、作者は責任を負いません。
+
+本リポジトリは、業務利用・商用利用・本番環境での使用を前提としたものではありません。
